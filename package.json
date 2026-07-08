@@ -1,0 +1,20 @@
+{
+  "name": "noahs-ark-animal-rescue-network-vue",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "@oasisomniverse/web4-api": "^2.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "typescript": "^5.3.3",
+    "vite": "^4.5.3",
+    "vue-tsc": "^1.8.27"
+  }
+}
